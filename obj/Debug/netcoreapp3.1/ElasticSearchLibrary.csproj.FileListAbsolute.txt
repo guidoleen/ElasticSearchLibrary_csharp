@@ -1,0 +1,8 @@
+D:\_PersonalDir\ElasticSearchLibrary\bin\Debug\netcoreapp3.1\ElasticSearchLibrary.deps.json
+D:\_PersonalDir\ElasticSearchLibrary\bin\Debug\netcoreapp3.1\ElasticSearchLibrary.dll
+D:\_PersonalDir\ElasticSearchLibrary\obj\Debug\netcoreapp3.1\ElasticSearchLibrary.csprojAssemblyReference.cache
+D:\_PersonalDir\ElasticSearchLibrary\obj\Debug\netcoreapp3.1\ElasticSearchLibrary.AssemblyInfoInputs.cache
+D:\_PersonalDir\ElasticSearchLibrary\obj\Debug\netcoreapp3.1\ElasticSearchLibrary.AssemblyInfo.cs
+D:\_PersonalDir\ElasticSearchLibrary\bin\Debug\netcoreapp3.1\ElasticSearchLibrary.pdb
+D:\_PersonalDir\ElasticSearchLibrary\obj\Debug\netcoreapp3.1\ElasticSearchLibrary.dll
+D:\_PersonalDir\ElasticSearchLibrary\obj\Debug\netcoreapp3.1\ElasticSearchLibrary.pdb
